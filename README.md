@@ -63,4 +63,7 @@ Hi! I'm Amr Tarek, a passionate frontend and fullstack developer, working with m
 ---
 
 <!-- SVG Wave animation separator -->
-<img src="https://svgur.com/i/105C.svg" alt="wave svg" width="100%" style="margin-top:20px;"/>
+<br/>
+<svg width="100%" height="60" viewBox="0 0 1200 60" xmlns="http://www.w3.org/2000/svg">
+  <path d="M0,20 C300,60 900,0 1200,20 L1200,60 L0,60 Z" fill="#3498db"/>
+</svg>

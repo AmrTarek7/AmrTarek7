@@ -1,4 +1,6 @@
-<h1 align="center">
+<div style=' background-image: url('./circle-scatter-haikei.svg');'>
+
+  <h1 align="center">
   Hey 👋 What's Up? I'm Amr Tarek
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&duration=3500&color=3498db&center=true&vCenter=true&lines=Frontend+Developer;Angular+Enthusiast;Open+to+Collaboration" alt="Typing SVG" />
@@ -24,15 +26,15 @@ I enjoy building clean UI/UX, working with interactive frameworks, and learning 
 ## 🧑‍💻 Tech Stack
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60" alt="Angular" style="margin: 8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML5" style="margin: 8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="CSS3" style="margin: 8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" style="margin: 8px;"/>
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript" style="margin: 8px;"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="TailwindCSS" style="margin: 8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="Bootstrap" style="margin: 8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="Github" style="margin: 8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="Git" style="margin: 8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60" alt="Angular" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML5" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="CSS3" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" style="margin: 10px;"/>
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript" style="margin: 10px;"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="TailwindCSS" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="Bootstrap" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="Github" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="Git" style="margin: 10px;"/>
 </div>
 
 ---
@@ -94,3 +96,5 @@ I enjoy building clean UI/UX, working with interactive frameworks, and learning 
 
 <h3 align="center">✨ Thanks for visiting my profile ✨</h3>
 <h4 align="center">💙 Crafted with passion by Amr Tarek</h4>
+
+</div>

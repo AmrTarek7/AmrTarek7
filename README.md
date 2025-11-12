@@ -1,7 +1,7 @@
 <h1 align="center">
   Hey 👋 What's Up? I'm Amr Tarek
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&duration=3500&color=3498db&center=true&vCenter=true&lines=Frontend+Enthusiast;Fullstack+Developer;Open+to+Collaboration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&duration=3500&color=3498db&center=true&vCenter=true&lines=Frontend+Developer;Angular+Enthusiast;Open+to+Collaboration" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -12,10 +12,12 @@
 
 ## 🚀 About Me
 
-Hi! I'm Amr Tarek, a passionate frontend and fullstack developer, working with modern frameworks and open technologies. I love building interactive user experiences and collaborating with amazing minds.  
+Hi! I'm **Amr Tarek**, a passionate **frontend developer** who loves crafting elegant, responsive, and modern web interfaces.  
+I enjoy building clean UI/UX, working with interactive frameworks, and learning new technologies every day.  
 
-- 🌐 Focus: Angular, React, HTML/CSS, JS/TS, Tailwind
-- 🤝 Looking for exciting projects and teamwork!
+- 🎯 Focus: Angular, HTML, CSS, JavaScript, TypeScript, TailwindCSS, PrimeNG  
+- 💡 Interested in: UI Design, Web Performance, and Animation  
+- 🤝 Open for collaboration on exciting frontend projects!
 
 ---
 
@@ -23,19 +25,17 @@ Hi! I'm Amr Tarek, a passionate frontend and fullstack developer, working with m
 
 <div align="center">
 
-  <!-- Animated skill icons -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60" alt="AngularJS" style="animation:float 2s infinite alternate"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="React" style="animation:float 2.2s infinite alternate"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML5" style="animation:float 2.5s infinite alternate"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="CSS3" style="animation:float 2.7s infinite alternate"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" style="animation:float 2.9s infinite alternate"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="NodeJS" style="animation:float 3s infinite alternate"/>
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript" style="animation:float 2.4s infinite alternate"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="TailwindCSS" style="animation:float 2.1s infinite alternate"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="Bootstrap" style="animation:float 2.3s infinite alternate"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60" alt="Angular" style="animation:float 2s infinite alternate;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML5" style="animation:float 2.2s infinite alternate;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="CSS3" style="animation:float 2.4s infinite alternate;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" style="animation:float 2.6s infinite alternate;"/>
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript" style="animation:float 2.8s infinite alternate;"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="TailwindCSS" style="animation:float 3s infinite alternate;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="Bootstrap" style="animation:float 2.5s infinite alternate;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="Github"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="Git"/>
 </div>
+
 <br>
 
 ---
@@ -62,8 +62,23 @@ Hi! I'm Amr Tarek, a passionate frontend and fullstack developer, working with m
 
 ---
 
-<!-- SVG Wave animation separator -->
+<!-- Clean SVG Wave separator -->
 <br/>
-<svg width="100%" height="60" viewBox="0 0 1200 60" xmlns="http://www.w3.org/2000/svg">
-  <path d="M0,20 C300,60 900,0 1200,20 L1200,60 L0,60 Z" fill="#3498db"/>
+<svg width="100%" height="80" viewBox="0 0 1200 80" xmlns="http://www.w3.org/2000/svg">
+  <path d="M0,30 C300,80 900,0 1200,30 L1200,80 L0,80 Z" fill="#3498db"/>
 </svg>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amrtarek&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+<style>
+@keyframes float {
+  from { transform: translateY(0px); }
+  to { transform: translateY(-10px); }
+}
+</style>

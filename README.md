@@ -24,19 +24,30 @@ I enjoy building clean UI/UX, working with interactive frameworks, and learning 
 ## 🧑‍💻 Tech Stack
 
 <div align="center">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60" alt="Angular" style="animation:float 2s infinite alternate;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML5" style="animation:float 2.2s infinite alternate;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="CSS3" style="animation:float 2.4s infinite alternate;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" style="animation:float 2.6s infinite alternate;"/>
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript" style="animation:float 2.8s infinite alternate;"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="TailwindCSS" style="animation:float 3s infinite alternate;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="Bootstrap" style="animation:float 2.5s infinite alternate;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60" alt="Angular"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="TailwindCSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="Bootstrap"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="Github"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="Git"/>
 </div>
 
-<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%" />
+</p>
+
+---
+
+## 🎬 Cool Animations
+
+<p align="center">
+  <img src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/gifs/code.gif" width="250" height="200">
+  <img src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/gifs/Developer.gif" width="250" height="200">
+  <img src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/gifs/rocket.gif" width="200" height="200">
+</p>
 
 ---
 
@@ -44,41 +55,43 @@ I enjoy building clean UI/UX, working with interactive frameworks, and learning 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/عمرو-طارق-82960a319" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
   </a>
   <a href="https://discordapp.com/users/amrtarek77" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=amrtarek77&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord" />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="25" />
   </a>
   <a href="https://wa.me/qr/QCP4LFGEPSAWI1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Whatsapp" />
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&color=25D366&logoColor=white&style=for-the-badge" height="25" />
   </a>
   <a href="https://www.facebook.com/share/19rCEsbULa/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Facebook" />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&color=1877F2&logoColor=white&style=for-the-badge" height="25" />
   </a>
   <a href="https://x.com/Amr_Tarek722?s=08" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter" />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
 
 ---
 
-<!-- Clean SVG Wave separator -->
+<!-- Animated SVG Wave separator -->
 <br/>
-<svg width="100%" height="80" viewBox="0 0 1200 80" xmlns="http://www.w3.org/2000/svg">
-  <path d="M0,30 C300,80 900,0 1200,30 L1200,80 L0,80 Z" fill="#3498db"/>
-</svg>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/waves/wave1.svg" width="100%"/>
 
 ---
+
+## ⚡ GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amrtarek&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amrtarek&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrtarek&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
 ---
 
-<style>
-@keyframes float {
-  from { transform: translateY(0px); }
-  to { transform: translateY(-10px); }
-}
-</style>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3498db&height=100&section=footer"/>
+</p>

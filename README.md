@@ -80,20 +80,10 @@ I enjoy building clean UI/UX, working with interactive frameworks, and learning 
 
 ---
 
-<!-- 🎨 Custom Background Section -->
-<div align="center" style="
-  background: url('./circle-scatter-haikei.svg');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  padding: 60px 0;
-  margin-top: 40px;
-  color: white;
-  font-weight: bold;
-  font-size: 22px;
-  border-radius: 12px;
-  box-shadow: 0 0 20px rgba(0,0,0,0.2);
-">
-  <p>✨ Thanks for visiting my profile ✨</p>
-  <p>💙 Crafted with passion by Amr Tarek</p>
-</div>
+<!-- 🌊 Banner-style Background Footer -->
+<p align="center">
+  <img src="./circle-scatter-haikei.svg" width="100%" alt="Footer Banner Background"/>
+</p>
+
+<h3 align="center">✨ Thanks for visiting my profile ✨</h3>
+<h4 align="center">💙 Crafted with passion by Amr Tarek</h4>

@@ -102,7 +102,7 @@ I enjoy building clean UI/UX, working with interactive frameworks, and learning 
 
 <!-- 🌊 Banner-style Background Footer -->
 <p align="center">
-  <img src="./circle-scatter-haikei.svg" width="100%" alt="Footer Banner Background"/>
+  <img src="./programming-3840-x-2160-picture-w8llnjrbqw4z6mh4.webp" width="100%" alt="Footer Banner Background"/>
 </p>
 
 <h3 align="center">✨ Thanks for visiting my profile ✨</h3>

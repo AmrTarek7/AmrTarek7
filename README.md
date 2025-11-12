@@ -24,15 +24,15 @@ I enjoy building clean UI/UX, working with interactive frameworks, and learning 
 ## 🧑‍💻 Tech Stack
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60" alt="Angular" style="margin: 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML5" style="margin: 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="CSS3" style="margin: 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" style="margin: 5px;"/>
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript" style="margin: 5px;"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="TailwindCSS" style="margin: 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="Bootstrap" style="margin: 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="Github" style="margin: 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="Git" style="margin: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60" alt="Angular" style="margin: 8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML5" style="margin: 8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="CSS3" style="margin: 8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" style="margin: 8px;"/>
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript" style="margin: 8px;"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="TailwindCSS" style="margin: 8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="Bootstrap" style="margin: 8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="Github" style="margin: 8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="Git" style="margin: 8px;"/>
 </div>
 
 ---
@@ -67,12 +67,6 @@ I enjoy building clean UI/UX, working with interactive frameworks, and learning 
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3498db&height=100&section=footer"/>
-</p>
-
----
-
 ## ⚡ GitHub Stats
 
 <p align="center">
@@ -86,6 +80,20 @@ I enjoy building clean UI/UX, working with interactive frameworks, and learning 
 
 ---
 
-<p align="center">
-  <img src="https://app.haikei.app/bg-grid.svg" width="100%" />
-</p>
+<!-- 🎨 Custom Background Section -->
+<div align="center" style="
+  background: url('./circle-scatter-haikei.svg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 60px 0;
+  margin-top: 40px;
+  color: white;
+  font-weight: bold;
+  font-size: 22px;
+  border-radius: 12px;
+  box-shadow: 0 0 20px rgba(0,0,0,0.2);
+">
+  <p>✨ Thanks for visiting my profile ✨</p>
+  <p>💙 Crafted with passion by Amr Tarek</p>
+</div>

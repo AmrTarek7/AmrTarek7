@@ -63,7 +63,7 @@ I enjoy building clean UI/UX, working with interactive frameworks, and learning 
 <div align="center">
 
    <a href="https://www.linkedin.com/in/عمرو-طارق-82960a319" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="24" style="vertical-align: middle; margin-right: 6px;" />
+    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="24" style="vertical-align: middle; margin-right: 6px;" /> -->
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
   </a>
 
@@ -80,7 +80,7 @@ I enjoy building clean UI/UX, working with interactive frameworks, and learning 
   </a>
 
   <a href="https://x.com/Amr_Tarek722?s=08" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter%20(X)-333333?style=for-the-badge&logo=x&logoColor=white" height="28" />
+    <img src="https://img.shields.io/badge/Twitter%20-333333?style=for-the-badge&logo=x&logoColor=white" height="28" />
   </a>
 
 </div>

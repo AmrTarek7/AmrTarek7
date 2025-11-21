@@ -116,6 +116,19 @@ No activity tracked
 
 <h3 align="center">✨ Thanks for visiting my profile ✨</h3>
 <h4 align="center">❤️ Crafted with passion by Amr Tarek</h4>
+<br>
+<table align="center">
+  <tr>
+    <td align="center">
+     <a href="https://github.com/AmrTarek7">
+        <img src="https://avatars.githubusercontent.com/u/172139630?v=4" width="150px;" />
+        <br />
+        <sub><b>Amr Tarek Abd El-Fatah</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>

@@ -1,10 +1,15 @@
 <h1 align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="100" alt="Angular Logo" />
   <br>
-  Hey 👋 What's Up? I'm Amr Tarek
+💻 Amr Tarek  |  Building with Angular 
+
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&duration=3500&color=D6002F&center=true&vCenter=true&lines=Frontend+Developer;Angular+Specialist;UI%2FUX+Lover;Open+to+Collaboration" alt="Typing SVG" />
 </h1>
+
+<!-- <h2 align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" height="80"/>
+</h2> -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amrtarek&label=Profile%20Views&color=D6002F&style=flat" alt="Profile Views" />
@@ -25,6 +30,8 @@ I craft elegant, performant, and modern UIs with a strong focus on animation and
 - 🎯 Focus: Angular, HTML, CSS, TypeScript, TailwindCSS, PrimeNG
 - ✨ Interested in: UI/UX Design, Web Animation, Web Performance
 - 🤝 Open for collaboration on awesome frontend projects!
+-  📫 Reach me at: **amryousef04@gmail.com**  
+- 📄 [My Resume](https://drive.google.com/file/d/1QP9En3nfsPfAHTvypJgMwQrqvLAsa6Fi/view?usp=drive_link)
 
 ---
 

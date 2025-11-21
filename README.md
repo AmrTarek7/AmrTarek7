@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="90" alt="Angular Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="100" alt="Angular Logo" />
   <br>
-  مرحبا 👋 أنا عمرو طارق
+  Hey 👋 What's Up? I'm Amr Tarek
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&duration=3500&color=D6002F&center=true&vCenter=true&lines=Frontend+Developer;Angular+Specialist;UI%2FUX+Lover;Open+to+Collaboration" alt="Typing SVG" />
 </h1>
@@ -17,37 +17,39 @@
 
 ---
 
-## 🚀 عنّي
+## 🚀 About Me
 
-مطور واجهات أمامية متخصص في **Angular**، أحب بناء واجهات أنيقة وجذابة باستخدام أحدث التقنيات والأنيميشن والتفاعلية. أطور نفسي يومياً في حلول الأداء وتجربة المستخدم.
+Hi! I'm **Amr Tarek**, a passionate **frontend developer** specialized in **Angular**.  
+I craft elegant, performant, and modern UIs with a strong focus on animation and user experience.
 
-- 🎯 التخصص: Angular, HTML, CSS, TypeScript, TailwindCSS, PrimeNG
-- ✨ اهتمامات: UI/UX، Web Animation، Performance
-- 🤝 مستعد للتعاون في مشاريع Frontend ملهمة
+- 🎯 Focus: Angular, HTML, CSS, TypeScript, TailwindCSS, PrimeNG
+- ✨ Interested in: UI/UX Design, Web Animation, Web Performance
+- 🤝 Open for collaboration on awesome frontend projects!
 
 ---
 
 ## 🧑‍💻 Angular Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50" />
-  <img src="https://skillicons.dev/icons?i=ts" height="50" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="55" alt="Angular logo" />
+  <img src="https://skillicons.dev/icons?i=ts" height="55" alt="TypeScript logo" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="55" alt="TailwindCSS logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" alt="HTML logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55" alt="CSS logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55" alt="JavaScript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="55" alt="Bootstrap logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/primeng/primeng-original.svg" height="55" alt="PrimeNG logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="55" alt="GitHub logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55" alt="Git logo" />
 </p>
 
 ---
 
-## 🎯 مشاريع مميزة
+## 🎯 Featured Projects
 
 <div align="center">
-  [![مشروع الإدارة](https://img.shields.io/badge/Warehouse-Management-blue?style=for-the-badge&logo=angular)](link-to-your-repo)
-  [![الموقع الشخصي](https://img.shields.io/badge/Portfolio-Website-red?style=for-the-badge&logo=angular)](link-to-your-repo)
+  <a href="link-to-your-repo"><img src="https://img.shields.io/badge/Warehouse-Management-blue?style=for-the-badge&logo=angular" alt="Warehouse Management" /></a>
+  <a href="link-to-your-repo"><img src="https://img.shields.io/badge/Portfolio-Website-red?style=for-the-badge&logo=angular" alt="Portfolio Website" /></a>
 </div>
 
 ---
@@ -59,7 +61,7 @@
 
 ---
 
-## 🌐 تواصل معي
+## 🌐 Connect with Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/عمرو-طارق-82960a319" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" /></a>
@@ -71,7 +73,7 @@
 
 ---
 
-## 📊 إحصائيات GitHub
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=amrtarek&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
@@ -96,8 +98,8 @@
   <img src="./programming-3840-x-2160-picture-w8llnjrbqw4z6mh4.webp" width="100%" style="border-radius: 25px; box-shadow:0 0 10px rgb(214,0,47);" alt="Footer Banner"/>
 </p>
 
-<h3 align="center">✨ شكراً لزيارتك صفحتي الشخصية ✨</h3>
-<h4 align="center">❤️ بُنيت بشغف بواسطة عمرو طارق</h4>
+<h3 align="center">✨ Thanks for visiting my profile ✨</h3>
+<h4 align="center">❤️ Crafted with passion by Amr Tarek</h4>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>

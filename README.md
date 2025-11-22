@@ -41,19 +41,34 @@ I craft elegant, performant, and modern UIs with a strong focus on animation and
 
 ---
 
-## ⏱️ Weekly Coding Stats
+## 🔥 Developer Productivity (Powered by WakaTime)
+
+<div align="center">
+
+🕒 **Tracking Code Time Automatically**  
+🎯 _Updated every day via GitHub Actions_
+
+</div>
+
+<br>
+
+<div align="center">
+  
+![Stats Header](https://img.shields.io/badge/Weekly%20Coding%20Stats-%23D6002F?style=for-the-badge&logo=angular&logoColor=white)
+
+</div>
 
 <!--START_SECTION:waka-->
 
-```txt
-From: 14 November 2025 - To: 21 November 2025
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
+
+<br>
+
+<div align="center">
+
+⌛ _Consistency beats motivation — Keep writing code._
+
+</div>
 
 ---
 

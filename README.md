@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AmrTarek7&label=Profile%20Views&color=D6002F&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=AmrTarek7&label=Profile%20Views&color=D6002F&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/AmrTarek7?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
@@ -116,21 +116,22 @@ No activity tracked
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amrtarek&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AmrTarek7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" /></p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmrTarek7&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amrtarek&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmrTarek7&theme=tokyo-night&hide_border=true&area=true" />
 </p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amrtarek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrtarek&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
-</div>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amrtarek&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AmrTarek7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrTarek7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
+
+
 
 ---
 

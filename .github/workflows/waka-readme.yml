@@ -5,9 +5,11 @@ on:
   schedule:
     - cron: "0 0 * * *"
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
@@ -16,7 +18,7 @@ jobs:
           SHOW_TITLE: true
           SECTION_NAME: waka
           BLOCKS: "->"
-          TIME_RANGE: last_6_months  # ← غيّر هنا حسب رغبتك   all_time,last_7_days
+          TIME_RANGE: last_6_months  
           LANG_COUNT: 7
           SHOW_TIME: true 
           SHOW_TOTAL: true
@@ -28,5 +30,3 @@ jobs:
           TARGET_PATH: README.md
           COMMITTER_NAME: Amr Tarek Bot
           COMMITTER_EMAIL: amryousef04@gmail.com
-          AUTHOR_NAME: Amr Tarek
-          AUTHOR_EMAIL: amryousef04@gmail.com

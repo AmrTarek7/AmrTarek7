@@ -1,10 +1,9 @@
 name: Waka Readme
 
 on:
-  workflow_dispatch:
+  workflow_dispatch:       # تشغيل يدوي من Actions
   schedule:
-    # كل يوم في منتصف الليل UTC
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"    # تشغيل تلقائي كل يوم الساعة 12 منتصف الليل UTC
 
 jobs:
   update-readme:
@@ -13,7 +12,21 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true
-          SHOW_TOTAL: true
-          SHOW_TIME: true
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}          # مفتاح WakaTime (إجباري)
+          SHOW_TITLE: true                                           # عرض عنوان في الجدول
+          SECTION_NAME: waka                                         # اسم القسم (يجب مطابقته في README)
+          BLOCKS: ->                                                 # شكل رسم الخط الزمني (اختياري)
+          TIME_RANGE: last_7_days                                    # تحليل آخر 7 أيام فقط
+          LANG_COUNT: 7                                              # عدد اللغات المعروضة بالتقرير
+          SHOW_TIME: true                                            # عرض الوقت لكل لغة
+          SHOW_TOTAL: true                                           # عرض الوقت الإجمالي
+          SHOW_MASKED_TIME: false                                    # إظهار الوقت المخفي (غالباً اتركها false)
+          STOP_AT_OTHER: true                                        # عند وصول لغة Other توقف الإظهار
+          IGNORED_LANGUAGES: YAML JSON TOML                          # لغات يتم تجاهلها (اختياري)
+          COMMIT_MESSAGE: "Updated waka stats"                       # رسالة الكوميت الآلي عند التحديث
+          TARGET_BRANCH: main                                        # اسم الفرع (غالباً main أو master)
+          TARGET_PATH: README.md                                     # المسار للملف الذي يتم تعديل قسم التحليل فيه
+          COMMITTER_NAME: Amr Tarek Bot                              # اسم صاحب الكوميت الآلي
+          COMMITTER_EMAIL: amryousef04@gmail.com                     # البريد (يمكن وضع نفسك أو إيميل بوت)
+          AUTHOR_NAME: Amr Tarek                                     # اسم صاحب التحديث
+          AUTHOR_EMAIL: amryousef04@gmail.com                        # البريد الخاص بك

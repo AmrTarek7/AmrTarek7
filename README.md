@@ -34,8 +34,9 @@ I craft elegant, performant, and modern UIs with a strong focus on animation and
 
 | 📁 Project             | ⏱️ WakaTime Stats                                  |
 |:--------------------:|:----------------------------------------------------:|
-| Luxor University AR   | [![WakaTime](https://wakatime.com/badge/user/316915ee-18a4-4cb5-9ca0-ab41994bb7e3/project/f142e480-1aac-4c0e-a7e7-2a590d05d9f1.svg)](https://wakatime.com/badge/user/316915ee-18a4-4cb5-9ca0-ab41994bb7e3/project/f142e480-1aac-4c0e-a7e7-2a590d05d9f1) |
-| Advidor Project       | [![WakaTime](https://wakatime.com/badge/user/316915ee-18a4-4cb5-9ca0-ab41994bb7e3/project/2475e592-e411-4597-80e9-432b9c7c5338.svg)](https://wakatime.com/badge/user/316915ee-18a4-4cb5-9ca0-ab41994bb7e3/project/2475e592-e411-4597-80e9-432b9c7c5338) |
+| Luxor University AR   | [![wakatime](https://wakatime.com/badge/user/316915ee-18a4-4cb5-9ca0-ab41994bb7e3/project/3d38901e-414d-4122-866d-7173fefb7042.svg)](https://wakatime.com/badge/user/316915ee-18a4-4cb5-9ca0-ab41994bb7e3/project/3d38901e-414d-4122-866d-7173fefb7042) |
+| Luxor Website AR       | [![wakatime](https://wakatime.com/badge/user/316915ee-18a4-4cb5-9ca0-ab41994bb7e3/project/f142e480-1aac-4c0e-a7e7-2a590d05d9f1.svg)](https://wakatime.com/badge/user/316915ee-18a4-4cb5-9ca0-ab41994bb7e3/project/f142e480-1aac-4c0e-a7e7-2a590d05d9f1) |
+| Advidor Project       | [![wakatime](https://wakatime.com/badge/user/316915ee-18a4-4cb5-9ca0-ab41994bb7e3/project/2475e592-e411-4597-80e9-432b9c7c5338.svg)](https://wakatime.com/badge/user/316915ee-18a4-4cb5-9ca0-ab41994bb7e3/project/2475e592-e411-4597-80e9-432b9c7c5338) |
 
 </div>
 

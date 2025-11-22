@@ -16,9 +16,9 @@ jobs:
           SHOW_TITLE: true
           SECTION_NAME: waka
           BLOCKS: "->"
-          TIME_RANGE: last_7_days
+          TIME_RANGE: last_6_months  # ← غيّر هنا حسب رغبتك   all_time,last_7_days
           LANG_COUNT: 7
-          SHOW_TIME: true
+          SHOW_TIME: true 
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
           STOP_AT_OTHER: true

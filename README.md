@@ -44,12 +44,26 @@ I craft elegant, performant, and modern UIs with a strong focus on animation and
 ## ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-```txt
-From: 14 November 2025 - To: 21 November 2025
+📊 **This Week I Spent My Time On** 
 
-No activity tracked
+```text
+🕑︎ Time Zone: Africa/Cairo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
 ```
+
 
 <!--END_SECTION:waka-->
 

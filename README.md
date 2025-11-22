@@ -1,25 +1,17 @@
 <h1 align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="100" alt="Angular Logo" />
   <br>
-💻 Amr Tarek  |  Building with Angular 
-
+  💻 Amr Tarek  |  Building with Angular 
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&duration=3500&color=D6002F&center=true&vCenter=true&lines=Frontend+Developer;Angular+Specialist;UI%2FUX+Lover;Open+to+Collaboration" alt="Typing SVG" />
 </h1>
 
-<!-- <h2 align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" height="80"/>
-</h2> -->
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amrtarek&label=Profile%20Views&color=D6002F&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/amrtarek?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=AmrTarek7&label=Profile%20Views&color=D6002F&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/AmrTarek7?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI81bFz8VbJVR16/giphy.gif" height="80"/>
-</p>
-
+<!-- نبذة التعريف -->
 ---
 
 ## 🚀 About Me
@@ -30,8 +22,35 @@ I craft elegant, performant, and modern UIs with a strong focus on animation and
 - 🎯 Focus: Angular, HTML, CSS, TypeScript, TailwindCSS, PrimeNG
 - ✨ Interested in: UI/UX Design, Web Animation, Web Performance
 - 🤝 Open for collaboration on awesome frontend projects!
--  📫 Reach me at: **amryousef04@gmail.com**  
+- 📫 Reach me at: **amryousef04@gmail.com**  
 - 📄 [My Resume](https://drive.google.com/file/d/1QP9En3nfsPfAHTvypJgMwQrqvLAsa6Fi/view?usp=drive_link)
+
+---
+
+## 🎯 Featured Projects & Time Tracking
+
+<div align="center">
+
+| Project                | WakaTime Coding Stats                                 |
+|------------------------|-------------------------------------------------------|
+| Luxor University AR    | [![wakatime](https://wakatime.com/badge/user/316915ee-18a4-4cb5-9ca0-ab41994bb7e3/project/f142e480-1aac-4c0e-a7e7-2a590d05d9f1.svg)](https://wakatime.com/badge/user/316915ee-18a4-4cb5-9ca0-ab41994bb7e3/project/f142e480-1aac-4c0e-a7e7-2a590d05d9f1) |
+| Advidor Project        | [![wakatime](https://wakatime.com/badge/user/316915ee-18a4-4cb5-9ca0-ab41994bb7e3/project/2475e592-e411-4597-80e9-432b9c7c5338.svg)](https://wakatime.com/badge/user/316915ee-18a4-4cb5-9ca0-ab41994bb7e3/project/2475e592-e411-4597-80e9-432b9c7c5338) |
+
+</div>
+
+---
+
+## ⏱️ Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+
+From: 14 November 2025 - To: 21 November 2025
+
+Total Time: 0 secs
+
+No activity tracked
+
+<!--END_SECTION:waka-->
 
 ---
 
@@ -49,31 +68,6 @@ I craft elegant, performant, and modern UIs with a strong focus on animation and
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="55" alt="GitHub logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55" alt="Git logo" />
 </p>
-
----
-
-## 🎯 Featured Projects
-
-<div align="center">
-  <a href="link-to-your-repo"><img src="https://img.shields.io/badge/Warehouse-Management-blue?style=for-the-badge&logo=angular" alt="Warehouse Management" /></a>
-  <a href="link-to-your-repo"><img src="https://img.shields.io/badge/Portfolio-Website-red?style=for-the-badge&logo=angular" alt="Portfolio Website" /></a>
-</div>
-
----
-
-## ⏱️ Weekly Coding Stats
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 14 November 2025 - To: 21 November 2025
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
 ---
 
@@ -117,6 +111,7 @@ No activity tracked
 <h3 align="center">✨ Thanks for visiting my profile ✨</h3>
 <h4 align="center">❤️ Crafted with passion by Amr Tarek</h4>
 <br>
+
 <table align="center">
   <tr>
     <td align="center">

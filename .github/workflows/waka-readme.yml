@@ -18,7 +18,7 @@ jobs:
           WAKATIME_USER_ID: ${{ secrets.WAKATIME_USER_ID }}
           SHOW_TITLE: true
           SECTION_NAME: waka
-          TIME_RANGE: last_7_days
+          TIME_RANGE: last_24_hours
           LANG_COUNT: 7
           SHOW_TIME: true
           TARGET_BRANCH: main

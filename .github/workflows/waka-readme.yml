@@ -3,7 +3,7 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: '0 0 * * *'
 
 permissions:
   contents: write
@@ -15,18 +15,12 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_USER_ID: ${{ secrets.WAKATIME_USER_ID }}
           SHOW_TITLE: true
           SECTION_NAME: waka
-          BLOCKS: "->"
-          TIME_RANGE: last_6_months  
+          TIME_RANGE: last_7_days
           LANG_COUNT: 7
-          SHOW_TIME: true 
-          SHOW_TOTAL: true
-          SHOW_MASKED_TIME: false
-          STOP_AT_OTHER: true
-          IGNORED_LANGUAGES: YAML JSON TOML
-          COMMIT_MESSAGE: "Updated waka stats"
+          SHOW_TIME: true
           TARGET_BRANCH: main
           TARGET_PATH: README.md
-          COMMITTER_NAME: Amr Tarek Bot
-          COMMITTER_EMAIL: amryousef04@gmail.com
+          COMMIT_MESSAGE: "Updated WakaTime stats ⏱️"

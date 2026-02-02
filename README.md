@@ -91,7 +91,7 @@ I craft elegant, performant, and modern UIs with a strong focus on animation and
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 January 2025 - To: 30 January 2026
+From: 01 February 2025 - To: 01 February 2026
 
 Total Time: 262 hrs 24 mins
 

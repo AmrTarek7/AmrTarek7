@@ -91,17 +91,17 @@ I craft elegant, performant, and modern UIs with a strong focus on animation and
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 April 2025 - To: 11 April 2026
+From: 12 April 2025 - To: 12 April 2026
 
-Total Time: 431 hrs 10 mins
+Total Time: 433 hrs 58 mins
 
-TypeScript    266 hrs 6 mins        >>>>>>>>>>>>>>>----------   61.65 %
-HTML          119 hrs 41 mins       >>>>>>>------------------   27.73 %
-CSS           22 hrs 38 mins        >------------------------   05.25 %
-SCSS          7 hrs 12 mins         -------------------------   01.67 %
-JavaScript    2 hrs 18 mins         -------------------------   00.54 %
-Markdown      1 hr 33 mins          -------------------------   00.36 %
-C#            50 mins               -------------------------   00.20 %
+TypeScript    267 hrs 24 mins       >>>>>>>>>>>>>>>----------   61.55 %
+HTML          120 hrs 20 mins       >>>>>>>------------------   27.70 %
+CSS           23 hrs 16 mins        >------------------------   05.36 %
+SCSS          7 hrs 12 mins         -------------------------   01.66 %
+JavaScript    2 hrs 18 mins         -------------------------   00.53 %
+Markdown      1 hr 47 mins          -------------------------   00.41 %
+C#            50 mins               -------------------------   00.19 %
 Other         28 mins               -------------------------   00.11 %
 ```
 

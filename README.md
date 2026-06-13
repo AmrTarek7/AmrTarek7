@@ -91,13 +91,13 @@ I craft elegant, performant, and modern UIs with a strong focus on animation and
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 June 2025 - To: 11 June 2026
+From: 12 June 2025 - To: 12 June 2026
 
-Total Time: 623 hrs 4 mins
+Total Time: 623 hrs 47 mins
 
-TypeScript        369 hrs 21 mins       >>>>>>>>>>>>>>>----------   59.22 %
-HTML              178 hrs 25 mins       >>>>>>>------------------   28.61 %
-CSS               46 hrs 13 mins        >>-----------------------   07.41 %
+TypeScript        370 hrs 3 mins        >>>>>>>>>>>>>>>----------   59.26 %
+HTML              178 hrs 27 mins       >>>>>>>------------------   28.58 %
+CSS               46 hrs 13 mins        >>-----------------------   07.40 %
 SCSS              10 hrs 6 mins         -------------------------   01.62 %
 JavaScript        2 hrs 18 mins         -------------------------   00.37 %
 Markdown          2 hrs 10 mins         -------------------------   00.35 %
